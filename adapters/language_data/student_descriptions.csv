@@ -1,0 +1,12 @@
+﻿state_name,category,description
+A,Emo,Alice is a quiet female student but often misbehaving student. She has medium dyed black hair and wears skinny black denim jeans with a black hoodie. 
+B,Emo,"Bart is a quiet male student that is generally well behaved but often led astray by Alice and Mark. He had long dyed black hair, wears hoodies and skinny black denim jeans and noticeably has ear piercings."
+C,Emo,"Catherine is a quiet female student and better behaved than her boyfriend Bart but has adopted many of his style choices recently. She has long black hair, is often now wearing black hoodies and skinny denim jeans and has even piercings on her face. "
+D,Normal,Daniel is an average male student with medium brown hair and no piercings.
+E,Normal,Elizabeth is an average female student with long blonde hair. She has a similar style to Alice and Catherine often wearing skinny black denim jeans and a red hoodie and has her ears pierced. 
+F,Teacher's pet,Francis is a very well behaved male student with short brown hair. He often wears a formal blue shirt and brown chinos.
+G,Teacher's pet,"Grace is a very well behaved female student with long blonde hair. She often wears blue cardigans and brown chinos. Uniquely, she is the only female without piercings."
+T,Teacher,The Teacher is a tall male with short brown hair and often wears a brown tweed suit jacket with blue chinos.
+M,Anarchist punk,"Mark is the most troublesome student. He has taken it upon himself to disrupt the class as much as possible and often sits near to Bart to distract him. He has dyed pink hair styled into a mohawk, often wears a blue studded denim jacket and is the only male with face piercings making him easy to spot."
+recycling,Recycling Bin,A recycling bin.
+trash,Trash Can,A trash can.

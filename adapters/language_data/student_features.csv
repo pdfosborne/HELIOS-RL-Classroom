@@ -1,0 +1,12 @@
+﻿state_x,state_y,type,hair_colour,hair-style,upperclothing-type,upperclothing-colour,lowerclothing-type,lowerclothing-colour,piercings,gender
+4,1,student,black,medium,hoodie,black,denim jeans,black,ear,female
+3,1,student,black,long,hoodie,black,denim jeans,black,ear,male
+2,1,student,black,long,hoodie,black,denim jeans,black,face,female
+1,1,student,brown,medium,jacket,blue,denim jeans,black,no,male
+1,2,student,blonde,long,hoodie,red,denim jeans,black,ear,female
+1,3,student,brown,short,shirt,blue,chinos,brown,no,male
+2,3,student,blonde,long,cardigan,blue,chinos,brown,no,female
+3,3,teacher,brown,short,jacket,brown,chinos,blue,no,male
+3,2,student,pink,mohawk,studded denim jacket,blue,denim jeans,black,face,male
+4,3,recycling,na,na,na,na,na,na,na,na
+4,2,trash,na,na,na,na,na,na,na,na

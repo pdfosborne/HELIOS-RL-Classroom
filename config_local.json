@@ -1,0 +1,7 @@
+{
+ "adapter_select": ["Language"],
+ "training_action_cap": 25,
+ "testing_action_cap":25,
+ "reward_signal": [1,0,0],
+ "sub_goal": "None"
+}
