@@ -1,4 +1,4 @@
-from helios.analysis import Analysis
+from helios_rl.analysis import Analysis
 
 save_dir = './output/'+str('test_11-04-2023_12-13')
 

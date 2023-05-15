@@ -2,14 +2,15 @@ import random
 from tqdm import tqdm
 import time
 # ------ Imports -----------------------------------------
-from scenario.Classroom.environment.classroom_generator import Engine
+from environment.classroom_generator import Engine
 # Adapter
-from scenario.Classroom.adapters.classroom_A import ClassroomALanguage
+from adapters.classroom_A import ClassroomALanguage
 # Agent Setup
-from helios.environment_setup.imports import ImportHelper
+from helios_rl.environment_setup.imports import ImportHelper
 # Evaluation standards
-from helios.environment_setup.results_table import ResultsTable
-from helios.environment_setup.helios_info import HeliosInfo
+from helios_rl.environment_setup.results_table import ResultsTable
+from helios_rl.environment_setup.helios_info import HeliosInfo
+
 
 STATE_ADAPTER_TYPES = {
     "Language": ClassroomALanguage

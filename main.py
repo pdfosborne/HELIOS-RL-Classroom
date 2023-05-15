@@ -2,19 +2,31 @@ from datetime import datetime
 import pandas as pd
 # ====== HELIOS IMPORTS =========================================
 # ------ Train/Test Function Imports ----------------------------
-from helios.experiments.standard import EXPERIMENT as FLAT
-from helios.experiments.helios_instruction_search import HELIOS_SEARCH
-from helios.experiments.helios_instruction_following import HELIOS_OPTIMIZE
+# from helios.experiments.standard import EXPERIMENT as FLAT
+# from helios.experiments.helios_instruction_search import HELIOS_SEARCH
+# from helios.experiments.helios_instruction_following import HELIOS_OPTIMIZE
 # ------ Config Import ------------------------------------------
-# Meta parameters
-from helios.config import TestingSetupConfig
-# Local parameters
-from helios.config_local import ConfigSetup
+# # Meta parameters
+# from helios.config import TestingSetupConfig
+# # Local parameters
+# from helios.config_local import ConfigSetup
+# # ------ Visual Analysis -----------------------------------------------
+# from helios.evaluation.combined_variance_visual import combined_variance_analysis_graph
+
+# ====== HELIOS IMPORTS =========================================
+from helios_rl import STANDARD_RL as FLAT
+from helios_rl import HELIOS_SEARCH
+from helios_rl import HELIOS_OPTIMIZE
+
+from helios_rl.config import TestingSetupConfig
+from helios_rl.config_local import ConfigSetup
+# ------ Visual Analysis -----------------------------------------------
+from helios_rl import combined_variance_analysis_graph
+
 # ====== LOCAL IMPORTS ==========================================
 # ------ Local Environment --------------------------------------
-from scenario.Classroom.environment.Class_A import Environment as ClassroomAEnv
-# ------ Visual Analysis -----------------------------------------------
-from helios.evaluation.combined_variance_visual import combined_variance_analysis_graph
+from environment.Class_A import Environment as ClassroomAEnv
+
 
 def main():
     # ------ Load Configs -----------------------------------------
