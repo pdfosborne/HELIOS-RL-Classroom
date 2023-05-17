@@ -55,8 +55,6 @@ class Environment:
         else:
             number_episodes = self.num_test_episodes
 
-        print(" Mean Q check")
-        print(self.agent.q_result()[0])
         for episode in tqdm(range(0, number_episodes)):
             start_obs = self.start_obs
             state_x = start_obs[0]
