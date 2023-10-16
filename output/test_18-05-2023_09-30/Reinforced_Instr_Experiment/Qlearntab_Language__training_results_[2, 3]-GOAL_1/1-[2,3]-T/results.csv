@@ -1,0 +1,51 @@
+,agent,opponent,episode,num_actions,episode_reward,cumulative_reward,time_per_episode,action_history,q_total,q_mean
+0,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,0,0,1.0,1.0,0.009973287582397461,['right'],0.05,0.05
+1,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,1,1,0.95,1.95,0.021940231323242188,"['right', 'right']",0.09500625000000001,0.09500625000000001
+2,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,2,0,1.0,2.95,0.007979631423950195,['right'],0.1402559375,0.1402559375
+3,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,3,0,1.0,3.95,0.007978677749633789,['right'],0.18324314062500002,0.18324314062500002
+4,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,4,0,1.0,4.95,0.007978677749633789,['right'],0.22408098359375003,0.22408098359375003
+5,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,5,1,0.95,5.9,0.013962268829345703,"['up', 'right']",0.27102078113476563,0.13551039056738282
+6,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,6,1,0.95,6.8500000000000005,0.013962507247924805,"['right', 'right']",0.3048776016948291,0.15243880084741454
+7,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,7,0,1.0,7.8500000000000005,0.007978677749633789,['right'],0.3400409139461228,0.1700204569730614
+8,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,8,4,0.8,8.65,0.035521507263183594,"['right', 'up', 'up', 'right', 'right']",0.36267030505019143,0.09066757626254786
+9,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,9,0,1.0,9.65,0.00706934928894043,['right'],0.39531219989164434,0.09882804997291109
+10,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,10,0,1.0,10.65,0.004987955093383789,['right'],0.42632199999102466,0.10658049999775616
+11,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,11,0,1.0,11.65,0.005984067916870117,['right'],0.45578131008543593,0.11394532752135898
+12,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,12,1,0.95,12.6,0.011736154556274414,"['down', 'right']",0.5021806273149205,0.10043612546298411
+13,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,13,0,1.0,13.6,0.004993438720703125,['right'],0.5287676546751268,0.10575353093502535
+14,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,14,0,1.0,14.6,0.004984855651855469,['right'],0.5540253306673226,0.11080506613346452
+15,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,15,2,0.9,15.5,0.01736164093017578,"['right', 'right', 'right']",0.5717587627011727,0.11435175254023452
+16,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,16,0,1.0,16.5,0.0063288211822509766,['right'],0.5958799296802176,0.11917598593604353
+17,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,17,0,1.0,17.5,0.008976459503173828,['right'],0.6187950383103104,0.12375900766206208
+18,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,18,0,1.0,18.5,0.0069806575775146484,['right'],0.6405643915088984,0.1281128783017797
+19,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,19,0,1.0,19.5,0.0049855709075927734,['right'],0.6612452770475571,0.13224905540951143
+20,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,20,0,1.0,20.5,0.005979776382446289,['right'],0.6808921183092829,0.13617842366185656
+21,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,21,0,1.0,21.5,0.00498509407043457,['right'],0.6995566175079223,0.13991132350158447
+22,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,22,0,1.0,22.5,0.005984783172607422,['right'],0.7172878917466298,0.14345757834932596
+23,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,23,4,0.8,23.3,0.024749755859375,"['right', 'right', 'down', 'right', 'right']",0.7224073347277715,0.12040122245462859
+24,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,24,3,0.85,24.150000000000002,0.02279829978942871,"['up', 'left', 'right', 'right']",0.7935037853584562,0.11335768362263661
+25,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,25,0,1.0,25.150000000000002,0.005983829498291016,['right'],0.8102451646879696,0.1157493092411385
+26,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,26,0,1.0,26.150000000000002,0.005984067916870117,['right'],0.8261494750510073,0.11802135357871534
+27,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,27,0,1.0,27.150000000000002,0.006953239440917969,['right'],0.8412585698958932,0.12017979569941331
+28,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,28,1,0.95,28.1,0.013962030410766602,"['up', 'right']",0.8851764881482675,0.12645378402118107
+29,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,29,0,1.0,29.1,0.00498652458190918,['right'],0.898812446245777,0.12840177803511102
+30,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,30,1,0.95,30.05,0.010970115661621094,"['up', 'right']",0.9411821765951643,0.13445459665645204
+31,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,31,0,1.0,31.05,0.004987239837646484,['right'],0.9534886287781666,0.13621266125402381
+32,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,32,0,1.0,32.05,0.007977485656738281,['right'],0.9651797583520189,0.13788282262171697
+33,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,33,0,1.0,33.05,0.0059814453125,['right'],0.9762863314471785,0.1394694759210255
+34,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,34,0,1.0,34.05,0.005252838134765625,['right'],0.98683757588758,0.14097679655536857
+35,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,35,0,1.0,35.05,0.004987001419067383,['right'],0.9968612581059615,0.1424087511579945
+36,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,36,7,0.65,35.699999999999996,0.03989410400390625,"['left', 'right', 'right', 'up', 'right', 'right', 'right', 'right']",1.0562678699466752,0.15089540999238218
+37,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,37,0,1.0,36.699999999999996,0.005983591079711914,['right'],1.0672392585501598,0.1524627512214514
+38,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,38,1,0.95,37.65,0.012965202331542969,"['up', 'right']",1.1081082415216033,0.15830117736022903
+39,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,39,0,1.0,38.65,0.005985260009765625,['right'],1.1180099197362483,0.15971570281946404
+40,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,40,1,0.95,39.6,0.009682655334472656,"['down', 'right']",1.162559600819454,0.16607994297420772
+41,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,41,0,1.0,40.6,0.0049588680267333984,['right'],1.171495865408171,0.1673565522011673
+42,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,42,0,1.0,41.6,0.005015850067138672,['right'],1.1799853167674523,0.1685693309667789
+43,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,43,0,1.0,42.6,0.006046772003173828,['right'],1.1880502955587695,0.16972147079410993
+44,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,44,0,1.0,43.6,0.005654335021972656,['right'],1.1957120254105207,0.17081600363007438
+45,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,45,0,1.0,44.6,0.005955934524536133,['right'],1.2029906687696843,0.17185580982424062
+46,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,46,0,1.0,45.6,0.005984783172607422,['right'],1.2099053799608899,0.17284362570869855
+47,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,47,0,1.0,46.6,0.004960298538208008,['right'],1.2164743555925353,0.1737820507989336
+48,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,48,1,0.95,47.550000000000004,0.010932683944702148,"['right', 'right']",1.218261307467976,0.17403732963828228
+49,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,49,1,0.95,48.50000000000001,0.010968685150146484,"['up', 'right']",1.257394400253662,0.17962777146480885

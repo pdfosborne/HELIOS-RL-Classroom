@@ -64,6 +64,7 @@ class Environment:
             start_time = time.time()
             episode_reward:int = 0
             action_history = []
+            state_history = []
             for action in range(0,self.training_action_cap):
                 if self.live_env:
                     # Agent takes action
@@ -71,6 +72,7 @@ class Environment:
                     action_history.append(agent_action)
                     
                     next_state_x, next_state_y, reward, terminated = self.env.step(classroom_id='A', state_x=state_x, state_y=state_y, action=agent_action)
+                    state_history.append("["+str(next_state_x)+","+str(next_state_y)+"]")
                     # Override reward per action with small negative punishment
                     if reward==0:
                         reward = -0.05
@@ -117,6 +119,7 @@ class Environment:
                         state_x = next_state_x
                         state_y = next_state_y
             end_time = time.time()
+            print(state_history)
             agent_results = self.agent.q_result()
             if self.live_env:
                 self.results.results_per_episode(self.agent_name, None, episode, action, episode_reward, (end_time-start_time), action_history, agent_results[0], agent_results[1]) 

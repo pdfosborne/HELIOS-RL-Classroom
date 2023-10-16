@@ -1,0 +1,21 @@
+,agent,opponent,episode,num_actions,episode_reward,cumulative_reward,time_per_episode,action_history,q_total,q_mean
+0,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,0,0,1.0,1.0,0.006979227066040039,['down'],0.05,0.05
+1,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,1,0,-1.0,0.0,0.004987478256225586,['right'],0.0,0.0
+2,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,2,1,-1.05,-1.05,0.011967658996582031,"['down', 'down']",-0.05499375,-0.027496875
+3,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,3,0,-1.0,-2.05,0.005982637405395508,['right'],-0.10249375,-0.051246875
+4,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,4,4,0.8,-1.2499999999999998,0.023936748504638672,"['down', 'left', 'down', 'down', 'down']",-0.061265484490234376,-0.020421828163411457
+5,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,5,1,0.95,-0.2999999999999998,0.012965202331542969,"['down', 'up']",-0.013862320779008785,-0.0034655801947521964
+6,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,6,1,-1.05,-1.3499999999999999,0.01196432113647461,"['down', 'down']",-0.06750449450305543,-0.016876123625763857
+7,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,7,0,1.0,-0.34999999999999987,0.004984617233276367,['down'],-0.01662926977790266,-0.004157317444475665
+8,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,8,0,1.0,0.6500000000000001,0.005982875823974609,['down'],0.03170219371099248,0.00792554842774812
+9,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,9,4,-1.2,-0.5499999999999998,0.026926755905151367,"['down', 'down', 'down', 'down', 'down']",-0.032620615360087105,-0.008155153840021776
+10,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,10,1,-1.05,-1.5999999999999999,0.008006095886230469,"['down', 'down']",-0.08443385536247862,-0.021108463840619655
+11,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,11,7,-1.35,-2.95,0.03291201591491699,"['down', 'down', 'down', 'left', 'left', 'down', 'down', 'right']",-0.1223348085403681,-0.030583702135092025
+12,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,12,7,-1.35,-4.300000000000001,0.02991938591003418,"['down', 'down', 'down', 'down', 'down', 'down', 'down', 'down']",-0.1638929918389212,-0.0409732479597303
+13,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,13,1,-1.05,-5.3500000000000005,0.007979631423950195,"['down', 'down']",-0.2073068626346264,-0.0518267156586566
+14,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,14,10,-1.5,-6.8500000000000005,0.043906450271606445,"['down', 'right', 'down', 'down', 'down', 'down', 'down', 'down', 'up', 'up', 'down']",-0.23347171612302547,-0.029183964515378184
+15,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,15,5,-1.25,-8.100000000000001,0.022938013076782227,"['down', 'right', 'down', 'left', 'down', 'down']",-0.2705334485819925,-0.033816681072749065
+16,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,16,2,-1.1,-9.200000000000001,0.011994361877441406,"['down', 'right', 'down']",-0.31131620218899825,-0.03891452527362478
+17,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,17,9,0.55,-8.65,0.03992295265197754,"['down', 'up', 'down', 'left', 'left', 'up', 'right', 'left', 'right', 'right']",-0.27602085926704834,-0.019715775661932024
+18,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,18,2,-1.1,-9.75,0.013961076736450195,"['down', 'down', 'up']",-0.31362189943577673,-0.022401564245412623
+19,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,19,6,0.7,-9.05,0.029892683029174805,"['right', 'down', 'down', 'down', 'right', 'down', 'left']",-0.2452891329510471,-0.01635260886340314

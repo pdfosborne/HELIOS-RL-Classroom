@@ -1,0 +1,11 @@
+,agent,opponent,episode,num_actions,episode_reward,cumulative_reward,time_per_episode,action_history,q_total,q_mean
+0,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,0,0,1.0,1.0,0.006979227066040039,['down'],0.05,0.05
+1,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,1,0,-1.0,0.0,0.004987478256225586,['right'],0.0,0.0
+2,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,2,1,-1.05,-1.05,0.011967658996582031,"['down', 'down']",-0.05499375,-0.027496875
+3,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,3,0,-1.0,-2.05,0.005982637405395508,['right'],-0.10249375,-0.051246875
+4,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,4,4,0.8,-1.2499999999999998,0.023936748504638672,"['down', 'left', 'down', 'down', 'down']",-0.061265484490234376,-0.020421828163411457
+5,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,5,1,0.95,-0.2999999999999998,0.012965202331542969,"['down', 'up']",-0.013862320779008785,-0.0034655801947521964
+6,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,6,1,-1.05,-1.3499999999999999,0.01196432113647461,"['down', 'down']",-0.06750449450305543,-0.016876123625763857
+7,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,7,0,1.0,-0.34999999999999987,0.004984617233276367,['down'],-0.01662926977790266,-0.004157317444475665
+8,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,8,0,1.0,0.6500000000000001,0.005982875823974609,['down'],0.03170219371099248,0.00792554842774812
+9,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,9,4,-1.2,-0.5499999999999998,0.026926755905151367,"['down', 'down', 'down', 'down', 'down']",-0.032620615360087105,-0.008155153840021776

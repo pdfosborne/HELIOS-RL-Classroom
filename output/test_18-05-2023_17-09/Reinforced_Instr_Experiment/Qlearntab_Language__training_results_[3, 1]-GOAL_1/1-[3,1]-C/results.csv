@@ -1,0 +1,11 @@
+,agent,opponent,episode,num_actions,episode_reward,cumulative_reward,time_per_episode,action_history,q_total,q_mean
+0,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,0,2,0.9,0.9,0.015958309173583984,"['down', 'down', 'right']",0.045006250000000005,0.022503125000000002
+1,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,1,1,-1.05,-0.15000000000000002,0.009973287582397461,"['right', 'down']",-0.009993750000000003,-0.003331250000000001
+2,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,2,0,1.0,0.85,0.0049588680267333984,['right'],0.03775625,0.012585416666666667
+3,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,3,1,-1.05,-0.20000000000000007,0.01296377182006836,"['left', 'left']",-0.017118750000000002,-0.0034237500000000006
+4,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,4,5,-1.25,-1.4500000000000002,0.03390693664550781,"['right', 'right', 'left', 'right', 'right', 'up']",-0.0869236109375,-0.0108654513671875
+5,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,5,2,0.9,-0.5500000000000002,0.017953157424926758,"['right', 'up', 'left']",-0.04214658134589844,-0.005268322668237305
+6,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,6,4,-1.2,-1.75,0.027923583984375,"['right', 'right', 'right', 'right', 'right']",-0.10780703960227199,-0.011978559955807998
+7,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,7,1,-1.05,-2.8,0.011967658996582031,"['right', 'right']",-0.16251714276607881,-0.01805746030734209
+8,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,8,1,-1.05,-3.8499999999999996,0.012965679168701172,"['right', 'up']",-0.21701723242968718,-0.024113025825520797
+9,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,9,1,-1.05,-4.8999999999999995,0.011967658996582031,"['right', 'right']",-0.2687969362949846,-0.029866326254998285

@@ -1,0 +1,11 @@
+,agent,opponent,episode,num_actions,episode_reward,cumulative_reward,time_per_episode,action_history,q_total,q_mean
+0,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,0,0,1.0,1.0,0.006981372833251953,['right'],0.05,0.05
+1,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,1,0,1.0,2.0,0.006981372833251953,['right'],0.0975,0.0975
+2,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,2,0,1.0,3.0,0.006981611251831055,['right'],0.142625,0.142625
+3,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,3,0,1.0,4.0,0.003988027572631836,['right'],0.18549375,0.18549375
+4,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,4,0,1.0,5.0,0.005982398986816406,['right'],0.2262190625,0.2262190625
+5,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,5,0,1.0,6.0,0.0049855709075927734,['right'],0.26490810937500003,0.26490810937500003
+6,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,6,0,1.0,7.0,0.004985809326171875,['right'],0.30166270390625005,0.30166270390625005
+7,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,7,2,0.9,7.9,0.013962507247924805,"['left', 'up', 'right']",0.36023752558203126,0.12007917519401042
+8,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,8,0,1.0,8.9,0.0059833526611328125,['right'],0.3934085471464844,0.13113618238216146
+9,"Qlearntab_Language_{'alpha': 0.05, 'gamma': 0.95, 'epsilon': 0.2, 'epsilon_step': 0.01}",,9,0,1.0,9.9,0.005982637405395508,['right'],0.42492101763271484,0.14164033921090494

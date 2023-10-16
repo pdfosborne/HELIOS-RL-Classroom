@@ -62,7 +62,7 @@ def main():
     # "recycling": {"Description": None, "action_cap": None}
     # }
 
-    num_plans = 20
+    num_plans = 40
     num_explor_epi = 50
     sim_threshold = 0.95
 
@@ -73,7 +73,7 @@ def main():
                         Environment=ClassroomAEnv,
                         save_dir = save_dir+'/Reinforced_Instr_Experiment',
                         num_plans = num_plans, number_exploration_episodes=num_explor_epi, sim_threshold=sim_threshold,
-                        feedback_increment = 0.25, feedback_repeats=1,
+                        feedback_increment = 0.1, feedback_repeats=1,
                         observed_states=observed_states, instruction_results=instruction_results)
 
     # Don't provide any instruction information, will be defined by command line input
